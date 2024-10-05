@@ -7,6 +7,8 @@ Product name: Grub
 Target Audience:
 Diners
 
+
+
 Value Proposition: 
 It offers a curated list of nearby restaurants tailored to your preferences, ensuring quick and efficient searches for local dining options.
 
